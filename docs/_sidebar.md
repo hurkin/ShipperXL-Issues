@@ -1,3 +1,0 @@
-- [Home](./)
-- [Instructions](instructions/)
-- [Release Notes](release-notes/)

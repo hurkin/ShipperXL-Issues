@@ -1,4 +1,0 @@
-- [Home](../)
-- **Instructions**
-  - [Overview](./)
-  - [Getting Started](getting-started.md)
